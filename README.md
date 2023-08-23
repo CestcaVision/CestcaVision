@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+
+![Static Badge](https://img.shields.io/badge/chrome-113+-green)
+![Static Badge](https://img.shields.io/badge/pnpm-8.2.0-8A2BE2)
+![Static Badge](https://img.shields.io/badge/vite-4.3.2-blue)
+
+![Static Badge](https://img.shields.io/badge/typescript-5.0.4-orange)
+![Static Badge](https://img.shields.io/badge/wgpu--matrix-2.5.0-orange)
+![Static Badge](https://img.shields.io/badge/dat.gui-0.7.9-orange)
+
+</div>
