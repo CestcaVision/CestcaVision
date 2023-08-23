@@ -24,5 +24,6 @@ Here are some ideas to get you started:
 ![Static Badge](https://img.shields.io/badge/typescript-5.0.4-orange)
 ![Static Badge](https://img.shields.io/badge/wgpu--matrix-2.5.0-orange)
 ![Static Badge](https://img.shields.io/badge/dat.gui-0.7.9-orange)
+![Static Badge](https://img.shields.io/badge/midjourney-5.2-red)
 
 </div>
