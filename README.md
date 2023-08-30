@@ -28,4 +28,5 @@ Here are some ideas to get you started:
 <a href="https://www.youtube.com">
 ![Static Badge](https://img.shields.io/badge/xiaohan-passing-brightgreen)
 </a>
+![Tricrepe's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tricrepe&layout=compact&theme=dark)
 </div>
