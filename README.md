@@ -27,9 +27,6 @@ I'm passionate about:
 - 🔧 Building efficient workflows
 - 🌐 Modern web applications
 
-## 📊 GitHub Stats
-
-![CestcaVision's GitHub stats](https://github-readme-stats.vercel.app/api?username=CestcaVision&show_icons=true&theme=default)
 
 ## 🛠️ Tech Stack
 
@@ -38,15 +35,10 @@ I'm passionate about:
 - Rust - Systems programming & performance-critical applications
 - Python - AI/ML & automation
 
-**Areas of Interest**
-- AI & Machine Learning
-- Developer Tools & IDEs
-- Creative Writing Tools
-- Web Technologies
 
 ---
 
-<div align="center">
+<div align="left">
 
 💬 Feel free to explore my repositories and reach out!
 
